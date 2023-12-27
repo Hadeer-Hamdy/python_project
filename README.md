@@ -1,2 +1,2 @@
-# python_project
+# project2
 project with python
